@@ -1,0 +1,32 @@
+INSERT INTO usuarios (id,login,password,nickname,email) VALUES (1,'israel','jc8209*(^GCHN_(hcLA','Israel','israel@platziblog.com');
+INSERT INTO usuarios (id,login,password,nickname,email) VALUES (2,'monica','(*&^LKJDHC_(*#YDLKJHODG','Moni','monica@platziblog.com');
+INSERT INTO usuarios (id,login,password,nickname,email) VALUES (3,'laura','LKDJ)_*(-c.M:\"[pOwHDˆåßƒ∂','Lau','laura@platziblog.com');
+INSERT INTO usuarios (id,login,password,nickname,email) VALUES (4,'edgar','LLiy)CX*Y:M<A<SC_(*N>O','Ed','edgar@platziblog.com');
+INSERT INTO usuarios (id,login,password,nickname,email) VALUES (5,'perezoso','&N_*JS)_Y)*(&TGOKS','Oso Pérez','perezoso@platziblog.com');
+
+INSERT INTO categorias (id,nombre) VALUES (1,'Ciencia');
+INSERT INTO categorias (id,nombre) VALUES (2,'Tecnología');
+INSERT INTO categorias (id,nombre) VALUES (3,'Deportes');
+INSERT INTO categorias (id,nombre) VALUES (4,'Espectáculos');
+INSERT INTO categorias (id,nombre) VALUES (5,'Economía');
+
+INSERT INTO etiquetas (id,nombre) VALUES (1,'Robótica');
+INSERT INTO etiquetas (id,nombre) VALUES (2,'Computación');
+INSERT INTO etiquetas (id,nombre) VALUES (3,'Teléfonos Móviles');
+INSERT INTO etiquetas (id,nombre) VALUES (4,'Automovilismo');
+INSERT INTO etiquetas (id,nombre) VALUES (5,'Campeonatos');
+INSERT INTO etiquetas (id,nombre) VALUES (6,'Equipos');
+INSERT INTO etiquetas (id,nombre) VALUES (7,'Bolsa de valores');
+INSERT INTO etiquetas (id,nombre) VALUES (8,'Inversiones');
+INSERT INTO etiquetas (id,nombre) VALUES (9,'Brokers');
+INSERT INTO etiquetas (id,nombre) VALUES (10,'Celebridades');
+INSERT INTO etiquetas (id,nombre) VALUES (11,'Eventos');
+INSERT INTO etiquetas (id,nombre) VALUES (12,'Moda');
+INSERT INTO etiquetas (id,nombre) VALUES (13,'Avances');
+INSERT INTO etiquetas (id,nombre) VALUES (14,'Nobel');
+INSERT INTO etiquetas (id,nombre) VALUES (15,'Matemáticas');
+INSERT INTO etiquetas (id,nombre) VALUES (16,'Química');
+INSERT INTO etiquetas (id,nombre) VALUES (17,'Física');
+INSERT INTO etiquetas (id,nombre) VALUES (18,'Largo plazo');
+INSERT INTO etiquetas (id,nombre) VALUES (19,'Bienes Raíces');
+INSERT INTO etiquetas (id,nombre) VALUES (20,'Estilo');
